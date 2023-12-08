@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "PrDagosto",
+    "slug": "projecto-universidade",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "packege": "com.app.minhaapp",
+      "versionCode": 1,
+      "package": "com.nicosdiogo11.projectouniversidade"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7d431aec-b645-44a8-977d-db55e5e1b1b0"
+      }
+    },
+    "owner": "nicosdiogo11"
+  }
+}
